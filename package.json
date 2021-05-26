@@ -21,7 +21,9 @@
     "react-native-slider-color-picker": "^2.2.1",
     "react-native-sliders": "^1.1.1",
     "react-native-web": "~0.13.12",
-    "react-native-wheel-color-picker": "^1.0.2"
+    "react-native-wheel-color-picker": "^1.0.2",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0"
